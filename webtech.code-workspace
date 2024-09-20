@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../webtech"
+		},
+		{
+			"path": "../../Data Structure and Algorithm DR.Tao"
+		},
+		{
+			"path": "../../homework"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "homework"
+	}
+}
